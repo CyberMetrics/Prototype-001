@@ -1,12 +1,13 @@
-# 🚀 Prototype-001
+# 🚀 Prototype-001                                                                                       [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)     [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  [![Notebook](https://img.shields.io/badge/notebook–Jupyter-orange.svg)](Prototype_001.ipynb)  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![Notebook](https://img.shields.io/badge/notebook–Jupyter-orange.svg)](Prototype_001.ipynb)  
+
 
 ---
+ ## 📖 Table of Contents
 
-## 📖 Table of Contents
+<table style="width:100%;">
+<tr>
+<td style="vertical-align: top; width: 50%; padding-right: 20px;">
 
 - [About](#-about)  
 - [Features](#-features)  
@@ -18,6 +19,17 @@
 - [Contributing](#-contributing)  
 - [License](#-license)  
 - [Acknowledgements](#-acknowledgements)  
+
+</td>
+<td style="vertical-align: top; width: 60%; text-align: center;">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyb3J0ZHo0NGVrZmV6c2F5OTc5OTdwZmZ5dDUzNHRoM2ZsM2hzMGlmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/source.gif" alt="Project Illustration" width="95%"/>
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
@@ -84,8 +96,9 @@ git clone https://github.com/CyberMetrics/Prototype-001.git
 cd Prototype-001
 
    
- 
+ ```
 ##🧪 Usage / Demo
+```
 Notebook Mode
 bash
 Copy code
@@ -128,15 +141,16 @@ Random Forest provided stable results across datasets.
 Feature X showed highest importance.
 
 Future work: reduce false positives, test deep anomaly detection.
-
+```
 📂 Project Structure
- 
+ ```
 Prototype-001/
 ├── LICENSE
 ├── README.md
 └── Prototype_001.ipynb       ← main demo notebook
- 
+ ```
 🤝 Contributing
+```
 Contributions are welcome!
 
 Fork this repository
@@ -156,11 +170,12 @@ Add deep models (autoencoders, LSTMs)
 Integrate MLflow or W&B for experiment tracking
 
 Improve visualization dashboards (Plotly, Streamlit)
-
+```
 ##📜 License
 This project is licensed under the MIT License — see the LICENSE file.
 
 ##🙏 Acknowledgements
+```
 Open-source libraries: NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
 
 Inspired by research in ML for SIEM / anomaly detection
