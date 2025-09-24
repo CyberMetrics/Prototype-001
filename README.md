@@ -9,16 +9,14 @@
 <tr>
 <td style="vertical-align: top; width: 50%; padding-right: 20px;">
 
-- [About](#-about)  
-- [Features](#-features)  
-- [Architecture](#-architecture--design)  
-- [Installation](#-installation)  
-- [Usage](#-usage--demo)  
-- [Experiments & Results](#-experiments--results)  
-- [Project Structure](#-project-structure)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-- [Acknowledgements](#-acknowledgements)  
+- [About](#about)  
+- [Features](#features)  
+- [Architecture & Design](#architecture--design)  
+- [Installation](#installation)  
+- [Project Structure](#project-structure)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Acknowledgements](#acknowledgements)
 
 </td>
 <td style="vertical-align: top; width: 60%; text-align: center;">
@@ -96,9 +94,8 @@ git clone https://github.com/CyberMetrics/Prototype-001.git
 cd Prototype-001
 
    
- ```
-##🧪 Usage / Demo
-```
+
+🧪 Usage / Demo
 Notebook Mode
 bash
 Copy code
@@ -142,7 +139,7 @@ Feature X showed highest importance.
 
 Future work: reduce false positives, test deep anomaly detection.
 ```
-📂 Project Structure
+###📂 Project Structure
  ```
 Prototype-001/
 ├── LICENSE
