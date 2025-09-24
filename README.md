@@ -13,10 +13,7 @@
 - [Features](#-features)  
 - [Architecture & Design](#-architecture--design)  
 - [Installation](#-installation)  
-- [Project Structure](#-project-structure)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-- [Acknowledgements](#-acknowledgements)
+ 
 
 </td>
 <td style="vertical-align: top; width: 60%; text-align: center;">
