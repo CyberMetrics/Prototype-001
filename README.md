@@ -1,4 +1,4 @@
-# 🚀 Prototype-001                                                                                       [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)     [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  [![Notebook](https://img.shields.io/badge/notebook–Jupyter-orange.svg)](Prototype_001.ipynb)  
+# 🚀 Prototypes                                                                                       [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)     [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  [![Notebook](https://img.shields.io/badge/notebook–Jupyter-orange.svg)](Prototype_001.ipynb)  
 
 
 
