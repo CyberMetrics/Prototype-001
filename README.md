@@ -31,13 +31,18 @@
 ## 🎯 About
 
 **Prototype-001** is a proof-of-concept system combining **cybersecurity / SIEM / ML** insights into an end-to-end pipeline.  
-
 It’s designed for SOC analysts, threat researchers, or ML engineers who want to explore data-driven security event detection and anomaly analysis.  
+
+**Prototype-002** introduces a HybridSecurityModel designed to perform three key security analyses in one: anomaly detection, classification, and time-series analysis. This prototype can handle both numeric and log-based data, making it a versatile tool for security monitoring.
 
 **Motivation**:  
 - Many SIEM-related ML prototypes lack modularity, visualization, or reproducibility.  
-- Prototype-001 aims to provide a clean foundation: data loading, feature extraction, model training, evaluation & visualization — all in one Jupyter notebook.  
-
+- Prototype-001 aims to provide a clean foundation: data loading, feature extraction, model training, evaluation & visualization — all in one Jupyter notebook.
+- Multi-Faceted Analysis: It's a base model that can perform anomaly detection, classification, and time-series analysis simultaneously in Prototype_002.
+- Hybrid Data Support: The model includes separate pipelines for analyzing both numeric data and log data.
+- Custom Classifier: It features a SimpleLogisticRegression classifier built from scratch.
+- Rule-Based Logic: The prototype uses rule-based logic for tasks like flagging rare events in logs as anomalies and classifying log content based on keywords.
+  
 **Key Topics / Tags**: `training` · `logs` · `ml` · `cybersecurity` · `siem` · `socs`
 
 ---
